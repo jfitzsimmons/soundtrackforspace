@@ -1,0 +1,4 @@
+{
+  "statusCode": 401,
+  "message": "No valid API key provided. Please provide your key with HTTP basic auth as the password."
+}
